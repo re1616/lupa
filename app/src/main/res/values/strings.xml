@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnifier</string>
+    <string name="shortcut_torch_short">With torch</string>
+    <string name="shortcut_torch_long">Magnifier with torch</string>
+
+    <string name="permission_title">Camera access needed</string>
+    <string name="permission_text">Magnifier shows the camera image enlarged. Nothing is recorded or sent anywhere.</string>
+    <string name="permission_allow">Allow</string>
+    <string name="permission_settings">Open settings</string>
+
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="zoom_label">Magnification</string>
+    <string name="zoom_value">%1$.1f×</string>
+    <string name="zoom_reset_hint">Magnification %1$.1f×, tap to reset</string>
+
+    <string name="freeze">Freeze frame</string>
+    <string name="resume">Resume</string>
+    <string name="torch">Torch</string>
+    <string name="ring_light">Light</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="filters">Filters</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="share">Share</string>
+    <string name="share_title">Share image</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved to gallery</string>
+    <string name="open">Open</string>
+    <string name="save_failed">Could not save</string>
+
+    <string name="fine_tune">Fine tuning</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="reset">Reset</string>
+
+    <string name="filter_none">No filter</string>
+    <string name="filter_invert">Inverted</string>
+    <string name="filter_gray">Grayscale</string>
+    <string name="filter_yellow_black">Yellow on black</string>
+    <string name="filter_black_yellow">Black on yellow</string>
+    <string name="filter_white_blue">White on blue</string>
+    <string name="filter_yellow_blue">Yellow on blue</string>
+
+    <string name="focus_hint">Too close — move the phone away</string>
+    <string name="focus_locked">Focus locked</string>
+    <string name="live_preview">Camera image. Tap to focus, long press to lock focus, pinch to zoom</string>
+    <string name="frozen_image">Frozen frame. Double tap to zoom, drag to move</string>
+    <string name="minimap">Overview. Tap to move to a place</string>
+</resources>

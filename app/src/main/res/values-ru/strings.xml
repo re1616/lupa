@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лупа</string>
+    <string name="shortcut_torch_short">С фонариком</string>
+    <string name="shortcut_torch_long">Лупа с фонариком</string>
+
+    <string name="permission_title">Нужен доступ к камере</string>
+    <string name="permission_text">Лупа показывает увеличенное изображение с камеры. Ничего не записывается и никуда не отправляется.</string>
+    <string name="permission_allow">Разрешить</string>
+    <string name="permission_settings">Открыть настройки</string>
+
+    <string name="zoom_in">Увеличить</string>
+    <string name="zoom_out">Уменьшить</string>
+    <string name="zoom_label">Увеличение</string>
+    <string name="zoom_value">%1$.1f×</string>
+    <string name="zoom_reset_hint">Увеличение %1$.1f×, нажмите для сброса</string>
+
+    <string name="freeze">Стоп-кадр</string>
+    <string name="resume">Продолжить</string>
+    <string name="torch">Фонарик</string>
+    <string name="ring_light">Подсветка</string>
+    <string name="state_on">Вкл</string>
+    <string name="state_off">Выкл</string>
+    <string name="filters">Фильтры</string>
+    <string name="switch_camera">Сменить камеру</string>
+    <string name="share">Поделиться</string>
+    <string name="share_title">Поделиться снимком</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено в галерею</string>
+    <string name="open">Открыть</string>
+    <string name="save_failed">Не удалось сохранить</string>
+
+    <string name="fine_tune">Тонкая настройка</string>
+    <string name="brightness">Яркость</string>
+    <string name="contrast">Контраст</string>
+    <string name="reset">Сбросить</string>
+
+    <string name="filter_none">Без фильтра</string>
+    <string name="filter_invert">Инверсия</string>
+    <string name="filter_gray">Ч/б</string>
+    <string name="filter_yellow_black">Жёлтый на чёрном</string>
+    <string name="filter_black_yellow">Чёрный на жёлтом</string>
+    <string name="filter_white_blue">Белый на синем</string>
+    <string name="filter_yellow_blue">Жёлтый на синем</string>
+
+    <string name="focus_hint">Слишком близко — отодвиньте телефон</string>
+    <string name="focus_locked">Фокус зафиксирован</string>
+    <string name="live_preview">Изображение с камеры. Нажмите для фокуса, удерживайте для фиксации фокуса, сведите пальцы для увеличения</string>
+    <string name="frozen_image">Стоп-кадр. Двойное нажатие — увеличить, перетаскивание — сдвинуть</string>
+    <string name="minimap">Мини-карта. Нажмите, чтобы перейти к месту</string>
+</resources>

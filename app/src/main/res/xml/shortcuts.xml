@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_torch"
+        android:shortcutId="torch"
+        android:shortcutLongLabel="@string/shortcut_torch_long"
+        android:shortcutShortLabel="@string/shortcut_torch_short">
+        <!-- При смене applicationId обновить targetPackage. -->
+        <intent
+            android:action="ru.vibecoding.lupa.TORCH"
+            android:targetClass="ru.vibecoding.lupa.MainActivity"
+            android:targetPackage="ru.vibecoding.lupa" />
+    </shortcut>
+</shortcuts>
